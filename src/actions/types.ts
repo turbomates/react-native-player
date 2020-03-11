@@ -1,0 +1,4 @@
+export const LOAD_ALBUMS = "LOAD_ALBUMS";
+export const LOAD_ALBUMS_SUCCESS = "LOAD_ALBUMS_SUCCESS";
+export const LOAD_ALBUMS_ERROR = "LOAD_ALBUMS_ERROR";
+export const PLAY_TRACK = "PLAY_TRACK";

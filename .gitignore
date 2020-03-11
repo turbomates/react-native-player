@@ -1,0 +1,25 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store
+
+# Custom
+*.psd
+*.pdf
+*.mp4
+*.mov
+*.mkv
+android/
+ios/
+__tests__
+package-lock.json
